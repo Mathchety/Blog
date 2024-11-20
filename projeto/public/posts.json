@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "Introdução ao React Native",
+      "author": "Carlos Silva",
+      "content": "React Native é um framework que permite o desenvolvimento de aplicativos móveis usando JavaScript e React.",
+      "likes": 120,
+      "comments": 15,
+      "date": "2024-10-01",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 2,
+      "title": "Vantagens do Tailwind CSS",
+      "author": "Mariana Oliveira",
+      "content": "Tailwind CSS é um framework CSS utilitário que facilita a criação de interfaces de forma rápida e organizada.",
+      "likes": 85,
+      "comments": 8,
+      "date": "2024-10-03",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 3,
+      "title": "Programação em JavaScript para Iniciantes",
+      "author": "José Mendes",
+      "content": "Aprender JavaScript é essencial para desenvolvimento web moderno. Vamos explorar os fundamentos da linguagem.",
+      "likes": 200,
+      "comments": 22,
+      "date": "2024-10-05",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 4,
+      "title": "Como Funciona o Flexbox no CSS",
+      "author": "Aline Santos",
+      "content": "Flexbox é uma ferramenta poderosa para criar layouts flexíveis. Entenda como utilizá-lo nas suas aplicações.",
+      "likes": 150,
+      "comments": 12,
+      "date": "2024-10-07",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 5,
+      "title": "Dicas de Produtividade para Programadores",
+      "author": "Ricardo Alves",
+      "content": "Descubra algumas dicas e truques para melhorar a produtividade no desenvolvimento de software.",
+      "likes": 170,
+      "comments": 9,
+      "date": "2024-10-10",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 6,
+      "title": "Aprendendo Node.js",
+      "author": "Fernanda Costa",
+      "content": "Node.js permite rodar JavaScript no backend. É uma excelente ferramenta para criar APIs e serviços.",
+      "likes": 190,
+      "comments": 25,
+      "date": "2024-10-12",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 7,
+      "title": "O que é TypeScript?",
+      "author": "Paulo Sousa",
+      "content": "TypeScript é um superset do JavaScript que adiciona tipagem estática, ajudando a evitar erros.",
+      "likes": 160,
+      "comments": 14,
+      "date": "2024-10-15",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 8,
+      "title": "A Importância de Testes em Software",
+      "author": "Julia Nascimento",
+      "content": "Testes garantem que o software funcione como esperado. Conheça os tipos e vantagens dos testes.",
+      "likes": 180,
+      "comments": 17,
+      "date": "2024-10-18",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 9,
+      "title": "Git e Controle de Versão",
+      "author": "Lucas Braga",
+      "content": "Git é uma ferramenta essencial para controle de versão, permitindo o rastreamento de alterações no código.",
+      "likes": 140,
+      "comments": 10,
+      "date": "2024-10-20",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    },
+    {
+      "id": 10,
+      "title": "Construindo APIs RESTful",
+      "author": "Ana Rocha",
+      "content": "APIs RESTful são uma forma comum de comunicação entre sistemas. Vamos aprender como criar uma API em Node.js.",
+      "likes": 210,
+      "comments": 30,
+      "date": "2024-10-25",
+      "image": "https://miro.medium.com/v2/resize:fit:1024/1*QY5S4senfFh-mIViSi5A_Q.png"
+    }
+   ]
+   
